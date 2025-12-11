@@ -1,0 +1,11 @@
+------------------------------------------------------------ Raspberry pi setup -------------------------------------------------------------------
+
+1) download pi imager -> start setting up in the chip attach it to the laptop the start pi imager then select the preferred os to boot in the sd-card 
+2) open cmd or teminal 
+3) ssh pi@pi.local (ssh username@hostname.local)[you can check username by typing command (whoami)and hostname by (hostname)]
+if ssh fails the go to 
+4) cd ./ssh folder then remove the known-host files by del on windows and rm on Linux then again try the ssh 
+
+
+
+------------------------
